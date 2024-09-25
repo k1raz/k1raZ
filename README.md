@@ -7,6 +7,6 @@
 <a href="https://t.me/funticwelson">telegram</a>
 <br>
 <p>discord: .k1raz</p>
-<img src="https://wakatime.com/share/@kiraz/5d4942ed-bf5d-44a8-95ed-7a21fa2005e0.svg">
+<!--<img src="https://wakatime.com/share/@kiraz/5d4942ed-bf5d-44a8-95ed-7a21fa2005e0.svg">-->
 
 
