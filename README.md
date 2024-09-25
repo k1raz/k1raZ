@@ -1,11 +1,10 @@
 <img src="https://wakatime.com/badge/user/fe92763d-49ce-484f-8ee8-933fa2f5955f.svg">
 <p>discord: .k1raz</p>
+
 <a href="https://ragemp.pro/members/kiraz.20057/">ragemp.pro profile</a>
-<br>
 <a href="https://leetcode.com/u/funticwelson/">leetCode profile</a>
-<br>
 <a href="https://t.me/funticwelson">telegram</a>
-<br>
+
 <p>Mine stack: </p>
 <ul>
   <li>TypeScript</li>
