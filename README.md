@@ -6,10 +6,12 @@
 
 <p>Mine stack: </p>
 <ul>
+  <li>NEST.js</li>
   <li>Node.js</li>
-  <li>TypeScript \ JavaScript</li>
+  <li>TypeScript, JavaScript</li>
   <li>PostgreSQL, MongoDB, MySql</li>
   <li>Webpack, ESBuild</li>
   <li>Git</li>
   <li>Unix systems</li>
+  <li>ALTV, RAGEMP api</li>
 </ul>
